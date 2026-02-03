@@ -84,6 +84,14 @@ Done ✅
 * Search inside playlists
 * Theater mode in new tab
 * Neon cyberpunk UI theme
+---
+## 📸 Screenshots
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AE-c0der/AE-coder-M3U8-Player/refs/heads/m3u8-player/screenshot(1).jpg" width="700"/>
+  <br/>
+  <img src="https://raw.githubusercontent.com/AE-c0der/AE-coder-M3U8-Player/refs/heads/m3u8-player/screenshot(2).jpg" width="700"/>
+</p>
 
 ---
 
