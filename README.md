@@ -87,6 +87,14 @@ Done ✅
 
 ---
 
+## ☕ Support the Project
+
+If this project helped you, consider supporting me:
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/ashraf07)
+
+Thank you for your support ❤️
+
 ## 📜 License
 
 MIT License
